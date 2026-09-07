@@ -58,7 +58,7 @@
 ## 项目结构
 
 ```text
-group7/
+cad-to-shapefile-gis-system/
 ├── Core/        核心转换与 GIS 业务逻辑
 ├── Models/      数据模型与参数对象
 ├── UI/          WinForms 界面
@@ -78,3 +78,8 @@ group7/
 
 本项目是一个面向 GIS 数据处理实践的课程工程，重点展示 CAD 数据向 GIS 矢量数据转换的完整流程，以及 ArcObjects 在桌面 GIS 应用开发中的使用方式。
 
+## 项目信息
+
+- 项目类型：GIS 课程设计
+- 开发小组：第七组
+- 维护方式：通过 GitHub 进行版本管理与协作
